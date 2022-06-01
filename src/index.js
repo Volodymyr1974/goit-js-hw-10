@@ -54,7 +54,3 @@ function renderMarkup (data ) {
     refs.countryListEl.innerHTML = markupList;
   }
 };
-
-
-
-
